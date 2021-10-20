@@ -1,1 +1,2 @@
 Welcome all
+doing pull commands
